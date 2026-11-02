@@ -1,0 +1,4 @@
+K=3; dt=0.02 frente a dt/2=0.01
+Máxima diferencia de r en tiempos comunes: 9.1686558e-09
+Máxima diferencia de frecuencias medias: 1.5265567e-16 rad/s
+Las barras muestran variación temporal, no incertidumbre entre repeticiones.
