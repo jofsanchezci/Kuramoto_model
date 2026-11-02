@@ -23,8 +23,7 @@ python actividad3_kuramoto.py --no-show --html
 
 Los resultados se guardan en `resultados/`: gráfica PNG, indicadores CSV y comprobación del paso temporal; con --html se añade la animación. Los controles de selección de K pertenecen a la ventana Python; el HTML tiene controles de reproducción para un solo K.
 
-## Google Colab o Jupyter
-Abra `Actividad3_Kuramoto.ipynb`. Contiene el código integrado, las gráficas y una celda que presenta la animación mediante controles de reproducción HTML. Cambie `K_animacion` para animar otro caso.
+
 
 ## Parámetros y modelo
 N=100, sigma=1 rad/s, semilla=42, T=80 s, dt=0.02 s y K=(0, 0.5, 1.5, 3). Puede modificarlos en la llamada a `experimento`. Cada K usa exactamente las mismas frecuencias y fases iniciales.
